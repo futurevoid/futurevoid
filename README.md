@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<script src="https://tryhackme.com/badge/2101993"> </script>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/0XLOL.png" alt="TryHackMe">
